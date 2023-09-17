@@ -14,6 +14,6 @@ public class Smile extends VehicleDecorator {
    */
   public Smile(Vehicle vehicle) {
     super(vehicle.lines);
-    this.integrateDecor(FileReader.getLines("decorator/smile.txt"));
+    this.integrateDecor(FileReader.getLines("decorator/txt/smile.txt"));
   }
 }

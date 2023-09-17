@@ -11,6 +11,6 @@ public class Car extends Vehicle {
    * in the local file car.txt
    */
   public Car() {
-    super(FileReader.getLines("decorator/car.txt"));
+    super(FileReader.getLines("decorator/txt/car.txt"));
   }
 }

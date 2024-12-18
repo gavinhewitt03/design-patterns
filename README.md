@@ -1,2 +1,2 @@
 # design-patterns
-Design Patterns for CSCE 247.
+Each design pattern has its own folder and is intended to be run in its respective directory.
